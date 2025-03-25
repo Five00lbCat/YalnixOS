@@ -11,7 +11,7 @@ This project was developed and run in a VirtualBox environment using a course-pr
 
 Reproducing the build on a personal machine would require substantial setup and configuration. For this reason, I’ve provided video demos of core functionality (linked in my CV) and am happy to share additional walkthroughs or explanations upon request.
 
-All code in this repository was written by my project partner and me. It excludes the base Yalnix framework and setup code, in accordance with course policy.
+All code in this repository was written by my project partner and I. It excludes the base Yalnix framework and setup code, in accordance with course policy.
 
 ## Directories
 Living in this directory, we have
